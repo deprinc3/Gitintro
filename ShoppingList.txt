@@ -5,3 +5,5 @@ Bananas
 Grapes 
 Carrot 
 Oranges 
+Rice
+Yam 
