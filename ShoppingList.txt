@@ -5,7 +5,13 @@ Bananas
 Grapes 
 Carrot 
 Oranges 
+JoeShoppingList
+Green apple 
+Beans
+AEba
+fufu
 Rice
 Yam 
 Watter 
 Juice
+main
